@@ -1,9 +1,2 @@
-.DS_Store
-.remember/
-__pycache__/
-*.pyc
-.venv/
-measurements.json
-.env
-.env.*
-!.env.example
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
